@@ -1,12 +1,12 @@
 # Despliegue desde GitHub
 
-Repositorio: https://github.com/marcorubioq/Choco_Vainilla_DEV
+Repositorio: https://github.com/iStrikecl/choco-vainilla
 Worker existente: choco-vainilla
 Rama de producción: main
 
 ## Configuración de Workers Builds
 
-- Repositorio: marcorubioq/Choco_Vainilla_DEV
+- Repositorio: iStrikecl/choco-vainilla
 - Directorio raíz: /
 - Rama de producción: main
 - Comando de compilación: npm run build:cloudflare
@@ -22,3 +22,4 @@ Después de conectar, cada push a main compila y publica. Un commit sin push per
 La compilación genera dist/client y dist/server. scripts/prepare-cloudflare.mjs aplica wrangler.cloudflare.json al archivo generado antes del despliegue. No editar dist/server/wrangler.json manualmente.
 
 No se ejecutan migraciones ni operaciones de borrado de D1 durante el despliegue. Los cambios de esquema requieren un paso independiente y revisado.
+
