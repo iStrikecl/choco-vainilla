@@ -1,0 +1,10 @@
+{
+  "name": "choco-vainilla",
+  "account_id": "3ee9702c70f7642b817d643019684ea4",
+  "workers_dev": true,
+  "d1_databases": [{
+    "binding": "DB",
+    "database_name": "choco-vainilla-catalogo",
+    "database_id": "796b4182-3dbc-4648-8678-72345b210937"
+  }]
+}
