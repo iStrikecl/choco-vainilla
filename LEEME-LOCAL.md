@@ -21,5 +21,6 @@ Base D1 creada e inicializada: choco-vainilla-catalogo.
 
 Publicado en https://choco-vainilla.marco-rubio3d.workers.dev . Versión: 40e2937d-02ed-4589-b8aa-c6e828a75963. El subdominio fue creado junto con este despliegue; Cloudflare indica que su activación puede tardar unos minutos.
 
-La administración está cerrada en este hosting hasta conectar autenticación independiente. No se aceptan cabeceras de identidad de ChatGPT en Cloudflare directo. R2 no está habilitado en la cuenta; las fotografías incluidas sí se publican como archivos estáticos. El flujo de compra continúa siendo una demostración.
+La administración en /admin usa correo y contraseña. No se aceptan cabeceras de identidad de ChatGPT para autorizar edición. R2 no está habilitado en la cuenta; las fotografías incluidas sí se publican como archivos estáticos. El flujo de compra continúa siendo una demostración.
+
 
